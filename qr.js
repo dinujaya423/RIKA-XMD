@@ -72,7 +72,7 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "Manu-MD&" + string_session;
+                        let md = "SR-TECH&" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*┏━━━━━━━━━━━━━━*
 *┃𝑆𝑅_𝐷𝙸𝙽𝚄_𝛭𝙳 𝑆𝙴𝚂𝚂𝙸𝙾𝙽 𝐼𝚂*
@@ -84,7 +84,7 @@ var randomItem = selectRandomItem(items);
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 * || 𝑆𝑅 亇𝛯𝑆𝐻 𝛩ꪝ𝚴𝛯𝑅 _ 𝐷𝐼𝚴び
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-* || 𝛩ꪝ𝚴𝛯𝑅 = https://wa.me/+94740026280
+* || 𝛩ꪝ𝚴𝛯𝑅 = 0740026280
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 * || 𝑅𝛯𝛲𝛩 = https://github.com/dinujaya423/SR-TECH_DINU
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -116,7 +116,7 @@ renderLargerThumbnail: "true"
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 * || 𝑆𝑅 亇𝛯𝑆𝐻 𝛩ꪝ𝚴𝛯𝑅 _ 𝐷𝐼𝚴び
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-* || 𝛩ꪝ𝚴𝛯𝑅 = https://wa.me/+94740026280
+* || 𝛩ꪝ𝚴𝛯𝑅 = 0740026280
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 * || 𝑅𝛯𝛲𝛩 = https://github.com/dinujaya423/SR-TECH_DINU
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
