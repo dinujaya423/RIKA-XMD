@@ -96,7 +96,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝑆𝑅 亇𝛯𝑆𝐻 _ 𝐷𝐼𝚴び",
-thumbnailUrl:"https://i.postimg.cc/JtQGFQ97/20250331-085303.jpg'",
+thumbnailUrl:"https://i.ibb.co/C5Rzcsmw/20250331-085303.jpg'",
 sourceUrl:"https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R",
 mediaType: 1,
 renderLargerThumbnail: "true"
@@ -128,7 +128,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝑆𝑅 亇𝛯𝑆𝐻 _ 𝐷𝐼𝚴び",
-thumbnailUrl:"https://i.postimg.cc/JtQGFQ97/20250331-085303.jpg'",
+thumbnailUrl: "https://i.ibb.co/C5Rzcsmw/20250331-085303.jpg'",
 sourceUrl:"https://whatsapp.com/channel/0029VbAeM185a246gjrJkP2X",
 mediaType: 2,
 renderLargerThumbnail: true,
